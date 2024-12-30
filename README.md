@@ -3,6 +3,40 @@
 - [Nepřímé daně](#Neprime-dane)
 
 ## Bankovnitví
+- dvouúrovňový bankovní systém
+	1. **Centrální banky** = státní instituce, nepodnikatelský subjekt
+	2. **Obchodní banky** = podnikatelské subjekty
+
+### ČNB
+- je to centrální banka ČR
+- sídlí v Praze
+- řídí ji bankovní rada ČNB v čele s guvernérem (Aleš Michl)
+
+#### Základní úkony
+- určuje a prosazuje vnitřní a vnější měnovou politiku
+- sleduje množství penž v oběhu, emituje (vydává) nové peníze a opotřebované nebo neplatné peníze stahuje z oběhu
+- dohlíží na činnost obchodních bank (kontrolní funkce), poskytuje bankám úvěry a ukládá jejich depozita (banka bank)
+- vede účty státního rozpočtu
+- spravuje měnové rezervy ve zlatě a devizích
+- obchoduje s cennými papíry (především státními)
+- sleduje a analyzuje množství peněz v oběhu i vývoj všech makroekonomických veličin
+
+#### Nástroje 
+- **Diskont** = základní úroková sazba v ekonomice, je to nejnižší úroková sazba, proto v praxi obchodní banky nedostávají úvěr od ČNB přímo za diskotní sazbu (4%), ale za sazbu repo (5%) nebo lombardní (6%), které jsou vyšší
+
+**Repo sazba (refinanční)** 
+- je úroková sazba ČNB pro reskont směnek, obchodní banky eskontují směnky od klientů, pokud však banka potřebuje peníze, může tuto směnku reeskontovat, tedy prodat ČNB
+- nejběžnější úroková sazba ve vztahu ČNB k obchodním bankám
+
+- **Lombardní sazba** = úroková sazba na úvěry obchodním bankám se zástavou cenných papírů
+
+- **Povinné minimální rezervy (PMR)** = ČNB předepisuje obchodním bankám určité procento vkladů, které si musí u ní bezúročně uložit ve formě PMR
+
+- **Pravidla likvidity** = ČNB určuje bankám, jaký mají mít vztah mezi aktivy a pasivy
+
+Krátkodobé úvěry musí být kryty krátkodobými zdroji a dlouhodobé úvěry dlouhodobými zdroji.
+
+
 
 
 ## Daňová soustava
