@@ -1,6 +1,6 @@
 # Okruhy
 - [Bankovnictví](#Bankovnictvi)
-- [Nepříjmé daně](#Neprime-dane)
+- [Nepřímé daně](#Neprime-dane)
 
 ## Bankovnitví
 
@@ -25,28 +25,45 @@
 - **poplatník** = osoba, která skutečně daň uhradí
 
 ### Principy daňové soustavy
-1. Daňová neutralita
+1. **Daňová neutralita**
 - daně by neměly nikoho ovlivňovat (aby určitá oblast podnikání nebyla daňově znevýhodněna)
 - není 100% (výjmkou jsou např. ti co pracují ekologicky - výchovný vliv)
 
-2. Daňová výnosnost
+2. **Daňová výnosnost**
 - daně musí být stanoveny tak velké, aby stačily na potřeby státu
 
-3. Daňová pružnost
+3. **Daňová pružnost**
 - daně by neměly být stále stejné
 - způsoby, jak funguje daňová soustava by se měly měnit v souvislosti se změnou ekonomiky
 
-4. Daňová spravovatelnost
+4. **Daňová spravovatelnost**
 - daně musí být dobře vymyšleny (systém FÚ, který zjistí velikost daně, vymáhání daně)
 
-5. Daňová univerzalita
+5. **Daňová univerzalita**
 - všeobecná platnost, jednotnost daní, co nejméně výjimek
 
 Vlivem na vytváření daní je stav ekonomiky, produktivita práce, vyšší produktivita = nižší daně, úroveň DPH, inflace, nezaměstnanosti.
 - podle toho se stanovuje zákon
 
+
+
 ### Přímé daně
 - plátce a poplatník je jedna osoba
+
+#### Daně z příjmů
+- **Objekt:** příjem
+- **daň z příjmu PO** = podniky, instituce, které mají nějaký zisk
+- **daň z příjmu FO**
+
+#### Majetkové daně
+- **Objekt:** hmotná věc - majetek
+- **daň z nemovitostí** = budovy pevně spojené se zemí
+- daň z dědictví, darování, z převodu nemovitostí
+
+#### Silniční daň
+- z vlastnictví dopravních prostředků
+
+
 
 ### Nepřímé daně
 - plátce a poplatník jsou dvě různé osoby
