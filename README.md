@@ -1,6 +1,6 @@
 # Okruhy
-- [Bankovnictví](#Bankovnictvi)
-- [Nepřímé daně](#Neprime-dane)
+- [Bankovnictví](#Bankovnictví)
+- [Nepřímé daně](#Nepřímé-daně)
 
 ## Bankovnitví
 - dvouúrovňový bankovní systém
