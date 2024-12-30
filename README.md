@@ -2,7 +2,7 @@
 - [Bankovnictví](#Bankovnictví)
 - [Nepřímé daně](#Nepřímé-daně)
 
-## Bankovnitví
+## Bankovnictví
 - dvouúrovňový bankovní systém
 	1. **Centrální banky** = státní instituce, nepodnikatelský subjekt
 	2. **Obchodní banky** = podnikatelské subjekty
