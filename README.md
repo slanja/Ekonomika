@@ -1,6 +1,9 @@
 # Okruhy
-- [Bankovnictví](#Bankovnictví)
-- [Nepřímé daně](#Nepřímé-daně)
+- 1. [Bankovnictví](#Bankovnictví)
+- [Daňová soustava](#Daňová-soustava)
+- 2. [Přímé daně](#Přímé-daně)
+- 3. [Nepřímé daně](#Nepřímé-daně)
+- 4. [Dlouhodobý majetek](#Dlouhodobý-majetek)
 
 ## Bankovnictví
 - dvouúrovňový bankovní systém
@@ -102,3 +105,75 @@ Vlivem na vytváření daní je stav ekonomiky, produktivita práce, vyšší pr
 ### Nepřímé daně
 - plátce a poplatník jsou dvě různé osoby
 - vybírány ze spotřebního zboží (např. DPH)
+
+
+
+
+
+## Dlouhodobý majetek
+- zahrnuje se do aktiv
+- slouží podniku déle než 1 rok, během svého používání nemění svojí formu, většinou se opotřebovává
+
+### Členění dlouhodobého majetku
+
+#### Hmotný
+- odepisuje se
+- doba použitelnosti delší než 1 rok
+
+a) **Nemovitosti:** budovy, pozemky, stavby
+b) **Movitý majetek:** jeho cena musí být větší jak 40 000,- Kč, auta, stroje, výrobní zařízení
+c) **Technické zhodnocení:** představuje nástavby, přístavby, modernizace, stavební úpravy hodnota musí být vyšší jak 40 000,- Kč
+d) **Pěstitelské velky trvalých porostů:** s dobou plodnosti delší, jak 3 roky, chmelnice, vinice, sady
+e) **Základní stáda:** tažná zvířata, koně, osli, dostihový koně
+f) **Drobný hmotný majetek:** cena je menší nebo rovna 40 000,- Kč a doba použitelnosti delší než 1 rok, může být zařazen v hmotném dlouhodobém nebo oběžném majetku
+g) **Jiný DHM**(bez ohledu na výši ocenění): umělecká díla (pokud nejsou součástí stavby), movité kulturní památky
+
+#### Nehmotný
+- vstupní cena je větší než 60 000,- Kč
+- odepisuje se
+
+a) **Software:** programové vybavení počítačů nakoupené samostatně nebo vytvoření vlastní činnosti
+b) **Ocenitelná práva:** výrobně technické poznatky = know-how, licence, autorská práva
+c) **Nehmotné výsledky výzkumné činnosti a činnosti odborné:** technologické postupy, projekty, receptury
+d) **Zřizovací výdaje:** výdaje na založení a zřízení toho daného podniku
+e) **Drobný nehmotný majetek:** vstupní cena je menší nebo rovna 60 000,- Kč a doba použitelnosti větší, jak 1 rok
+
+#### Finanční 
+- neodepisuje se
+- podnik tento majetek nepotřebuje k provozování své činnosti, vkládá do něj volné peněžní prostředky, důvod pořízení: získání výnosu v budoucnosti
+
+a) **Cenné papíry:** akcie jiných podniků - dividenda
+b) **Půjčky jiným podnikům s dobou splatnosti větší, jak 1 rok:** dlouhodobé pohledávky
+c) **Termínované vklady na dobu delší, jak 1 rok:** nesoucí výnosový úrok
+
+- v případě, že podnik hodlá finanční majetek držet po dobu kratší, jak 1 rok, bude začleněn do kategorie krátkodobý finanční majetek
+
+### Technické zhodnocení DM
+Jako technické zhodnocení se označují výdaje na dokončené nástavby, přístavby a stavební úpravy, rekonstrukce a modernizace majetku, pokud překročí za účetní období částku 40 000,- Kč.
+
+
+### Oceňování DM
+1) **Pořizovací cena**
+- skládá se z ceny pořízení a z vedlejších pořizovacích nákladů (tj. z dalších nákladů, které s pořízením souvisí)
+
+**Vedlejší požizovací náklady**
+- doprava
+- průzkumové, geologické, geodetické a projektové práce
+- náklady související s uvedením předmětu do užívání
+- příprava a zabezpečení pořizovaného majetku
+- vyřazení stávajících staveb nebo jejich částí v důsledku nové výstavby
+
+Důležité je, že vedlejší pořizovací náklady nelze jednorázově uplatnit do nákladů, ale v nákladech budou zahrnuty až ve formě odpisů. Je důležité tedy správně stanovit, zda je účtovaná položka součástí pořizovací ceny, nebo ne.
+
+2) **Vlastní náklady**
+- u dlouhodobého majetku pořízeného vlastní činností
+
+Vlastní náklady jsou veškeré přímé náklady, nepřímé náklady bezprostředně související s vytvořením dlouhodobého majetku vlastní činnosti.
+
+3) **Reprodukční pořizovací cena**
+- cena, za kterou by byl majetek pořízen v době, kdy se o něm účtuje
+
+**Ocenění reprodukční pořizovací cenou se použije zejména u DM:**
+- nabytého darováním
+- nově zjištěného a v účetnictví dosud nezachyceného (například inventarizační přebytek)
+- vloženého do obchodní společnosti, družstva
