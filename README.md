@@ -1,9 +1,9 @@
 # Okruhy
-- 1. [Bankovnictví](#Bankovnictví)
-- [Daňová soustava](#Daňová-soustava)
-- 2. [Přímé daně](#Přímé-daně)
-- 3. [Nepřímé daně](#Nepřímé-daně)
-- 4. [Dlouhodobý majetek](#Dlouhodobý-majetek)
+1. [Bankovnictví](#Bankovnictví)
+   [Daňová soustava](#Daňová-soustava)
+2. [Přímé daně](#Přímé-daně)
+3. [Nepřímé daně](#Nepřímé-daně)
+4. [Dlouhodobý majetek](#Dlouhodobý-majetek)
 
 ## Bankovnictví
 - dvouúrovňový bankovní systém
@@ -132,19 +132,19 @@ g) **Jiný DHM**(bez ohledu na výši ocenění): umělecká díla (pokud nejsou
 - vstupní cena je větší než 60 000,- Kč
 - odepisuje se
 
-a) **Software:** programové vybavení počítačů nakoupené samostatně nebo vytvoření vlastní činnosti
-b) **Ocenitelná práva:** výrobně technické poznatky = know-how, licence, autorská práva
-c) **Nehmotné výsledky výzkumné činnosti a činnosti odborné:** technologické postupy, projekty, receptury
-d) **Zřizovací výdaje:** výdaje na založení a zřízení toho daného podniku
-e) **Drobný nehmotný majetek:** vstupní cena je menší nebo rovna 60 000,- Kč a doba použitelnosti větší, jak 1 rok
+- a) **Software:** programové vybavení počítačů nakoupené samostatně nebo vytvoření vlastní činnosti
+- b) **Ocenitelná práva:** výrobně technické poznatky = know-how, licence, autorská práva
+- c) **Nehmotné výsledky výzkumné činnosti a činnosti odborné:** technologické postupy, projekty, receptury
+- d) **Zřizovací výdaje:** výdaje na založení a zřízení toho daného podniku
+- e) **Drobný nehmotný majetek:** vstupní cena je menší nebo rovna 60 000,- Kč a doba použitelnosti větší, jak 1 rok
 
 #### Finanční 
 - neodepisuje se
 - podnik tento majetek nepotřebuje k provozování své činnosti, vkládá do něj volné peněžní prostředky, důvod pořízení: získání výnosu v budoucnosti
 
-a) **Cenné papíry:** akcie jiných podniků - dividenda
-b) **Půjčky jiným podnikům s dobou splatnosti větší, jak 1 rok:** dlouhodobé pohledávky
-c) **Termínované vklady na dobu delší, jak 1 rok:** nesoucí výnosový úrok
+- a) **Cenné papíry:** akcie jiných podniků - dividenda
+- b) **Půjčky jiným podnikům s dobou splatnosti větší, jak 1 rok:** dlouhodobé pohledávky
+- c) **Termínované vklady na dobu delší, jak 1 rok:** nesoucí výnosový úrok
 
 - v případě, že podnik hodlá finanční majetek držet po dobu kratší, jak 1 rok, bude začleněn do kategorie krátkodobý finanční majetek
 
