@@ -1,6 +1,8 @@
 # Okruhy
 1. [Bankovnictví](#Bankovnictví)
+
    [Daňová soustava](#Daňová-soustava)
+
 2. [Přímé daně](#Přímé-daně)
 3. [Nepřímé daně](#Nepřímé-daně)
 4. [Dlouhodobý majetek](#Dlouhodobý-majetek)
@@ -120,17 +122,19 @@ Vlivem na vytváření daní je stav ekonomiky, produktivita práce, vyšší pr
 - odepisuje se
 - doba použitelnosti delší než 1 rok
 
-a) **Nemovitosti:** budovy, pozemky, stavby
-b) **Movitý majetek:** jeho cena musí být větší jak 40 000,- Kč, auta, stroje, výrobní zařízení
-c) **Technické zhodnocení:** představuje nástavby, přístavby, modernizace, stavební úpravy hodnota musí být vyšší jak 40 000,- Kč
-d) **Pěstitelské velky trvalých porostů:** s dobou plodnosti delší, jak 3 roky, chmelnice, vinice, sady
-e) **Základní stáda:** tažná zvířata, koně, osli, dostihový koně
-f) **Drobný hmotný majetek:** cena je menší nebo rovna 40 000,- Kč a doba použitelnosti delší než 1 rok, může být zařazen v hmotném dlouhodobém nebo oběžném majetku
-g) **Jiný DHM**(bez ohledu na výši ocenění): umělecká díla (pokud nejsou součástí stavby), movité kulturní památky
+
+- a) **Nemovitosti:** budovy, pozemky, stavby
+- b) **Movitý majetek:** jeho cena musí být větší jak 40 000,- Kč, auta, stroje, výrobní zařízení
+- c) **Technické zhodnocení:** představuje nástavby, přístavby, modernizace, stavební úpravy hodnota musí být vyšší jak 40 000,- Kč
+- d) **Pěstitelské velky trvalých porostů:** s dobou plodnosti delší, jak 3 roky, chmelnice, vinice, sady
+- e) **Základní stáda:** tažná zvířata, koně, osli, dostihový koně
+- f) **Drobný hmotný majetek:** cena je menší nebo rovna 40 000,- Kč a doba použitelnosti delší než 1 rok, může být zařazen v hmotném dlouhodobém nebo oběžném majetku
+- g) **Jiný DHM**(bez ohledu na výši ocenění): umělecká díla (pokud nejsou součástí stavby), movité kulturní památky
 
 #### Nehmotný
 - vstupní cena je větší než 60 000,- Kč
 - odepisuje se
+
 
 - a) **Software:** programové vybavení počítačů nakoupené samostatně nebo vytvoření vlastní činnosti
 - b) **Ocenitelná práva:** výrobně technické poznatky = know-how, licence, autorská práva
@@ -141,6 +145,7 @@ g) **Jiný DHM**(bez ohledu na výši ocenění): umělecká díla (pokud nejsou
 #### Finanční 
 - neodepisuje se
 - podnik tento majetek nepotřebuje k provozování své činnosti, vkládá do něj volné peněžní prostředky, důvod pořízení: získání výnosu v budoucnosti
+
 
 - a) **Cenné papíry:** akcie jiných podniků - dividenda
 - b) **Půjčky jiným podnikům s dobou splatnosti větší, jak 1 rok:** dlouhodobé pohledávky
